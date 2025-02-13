@@ -1,8 +1,9 @@
--  Hey, I’m Ariya 
--  I’m interested in machine learning  and app developing using FLUTTER frame work.
--  I’m currently learning Dart and Flutter.
--  I’m looking to collaborate on remote jobs and freelance.
--  How to reach me contact me via my gmail: Callme.aari@gmail.com
+🚀 Tech Enthusiast | Flutter Developer | Future Founder
+Hey, I’m Ariya 
+I build innovative, scalable mobile applications using Flutter & Dart.
+With a strong engineering background, I’m on a mission to launch a knowledge-based tech company.
+Always open to collaboration and exploring new ideas!
+How to reach me contact me via my gmail: Callme.aari@gmail.com
 
 
 <!---
