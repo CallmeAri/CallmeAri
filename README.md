@@ -4,7 +4,7 @@
 - With a strong engineering background, I’m on a mission to launch a knowledge-based tech company.
 - Always open to collaboration and exploring new ideas!
 #   How to reach me contact me via my gmail: Callme.aari@gmail.com
-#   TELEGRAM: https://t.me/Callmeaarii
+- TELEGRAM: https://t.me/Callmeaarii
 
 
 <!---
